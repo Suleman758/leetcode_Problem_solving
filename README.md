@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0066-plus-one) |
 | [0561-array-partition](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
@@ -27,4 +28,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0001-two-sum) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
