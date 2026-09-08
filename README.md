@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0066-plus-one) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0118-pascals-triangle) |
 | [0136-single-number](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0228-summary-ranges) |
 | [0561-array-partition](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0561-array-partition) |
@@ -64,4 +65,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0136-single-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
