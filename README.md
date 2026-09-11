@@ -13,11 +13,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0136-single-number) |
 | [0228-summary-ranges](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0228-summary-ranges) |
+| [0283-move-zeroes](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0283-move-zeroes) |
 | [0561-array-partition](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0283-move-zeroes) |
 ## Greedy
 |  |
 | ------- |
