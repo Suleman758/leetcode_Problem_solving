@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0228-summary-ranges](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0228-summary-ranges) |
 | [0268-missing-number](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0283-move-zeroes) |
+| [0303-range-sum-query-immutable](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0561-array-partition](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
@@ -91,4 +92,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0303-range-sum-query-immutable) |
+## Prefix Sum
+|  |
+| ------- |
+| [0303-range-sum-query-immutable](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0303-range-sum-query-immutable) |
 <!---LeetCode Topics End-->
