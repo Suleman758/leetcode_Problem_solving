@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0455-assign-cookies](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0561-array-partition) |
 ## Two Pointers
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0268-missing-number) |
+| [0496-next-greater-element-i](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
 | ------- |
@@ -110,4 +112,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0455-assign-cookies) |
+## Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0496-next-greater-element-i) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
