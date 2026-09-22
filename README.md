@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0303-range-sum-query-immutable) |
+| [0349-intersection-of-two-arrays](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0496-next-greater-element-i) |
 | [0561-array-partition](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0561-array-partition) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0283-move-zeroes](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0455-assign-cookies) |
 ## Greedy
 |  |
@@ -39,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0455-assign-cookies](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0561-array-partition) |
 ## Counting Sort
@@ -53,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0496-next-greater-element-i](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0496-next-greater-element-i) |
 ## Math
 |  |
@@ -73,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0268-missing-number](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0268-missing-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 ## Binary Tree
 |  |
 | ------- |
