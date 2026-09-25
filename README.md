@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0455-assign-cookies) |
+| [0495-teemo-attacking](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0495-teemo-attacking) |
 | [0496-next-greater-element-i](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0500-keyboard-row) |
 | [0561-array-partition](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0561-array-partition) |
@@ -130,4 +131,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0496-next-greater-element-i) |
+## Simulation
+|  |
+| ------- |
+| [0495-teemo-attacking](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0495-teemo-attacking) |
 <!---LeetCode Topics End-->
