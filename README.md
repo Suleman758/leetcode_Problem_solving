@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0500-keyboard-row) |
 | [0506-relative-ranks](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0645-set-mismatch) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0455-assign-cookies) |
 | [0506-relative-ranks](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0561-array-partition) |
+| [0645-set-mismatch](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0645-set-mismatch) |
 ## Counting Sort
 |  |
 | ------- |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0500-keyboard-row) |
+| [0645-set-mismatch](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0645-set-mismatch) |
 ## Math
 |  |
 | ------- |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0268-missing-number) |
+| [0645-set-mismatch](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0645-set-mismatch) |
 ## Dynamic Programming
 |  |
 | ------- |
