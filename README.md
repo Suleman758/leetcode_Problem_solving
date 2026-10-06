@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0561-array-partition) |
 | [0645-set-mismatch](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0645-set-mismatch) |
+| [0661-image-smoother](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0661-image-smoother) |
 ## Two Pointers
 |  |
 | ------- |
@@ -161,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0506-relative-ranks](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0506-relative-ranks) |
+## Matrix
+|  |
+| ------- |
+| [0661-image-smoother](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0661-image-smoother) |
 <!---LeetCode Topics End-->
