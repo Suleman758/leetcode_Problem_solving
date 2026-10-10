@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0682-baseball-game) |
+| [0705-design-hashset](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0705-design-hashset) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0496-next-greater-element-i) |
 | [0500-keyboard-row](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0645-set-mismatch) |
+| [0705-design-hashset](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0705-design-hashset) |
 ## Math
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0303-range-sum-query-immutable) |
+| [0705-design-hashset](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0705-design-hashset) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -170,4 +173,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0661-image-smoother](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0661-image-smoother) |
+## Linked List
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0705-design-hashset) |
+## Hash Function
+|  |
+| ------- |
+| [0705-design-hashset](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0705-design-hashset) |
 <!---LeetCode Topics End-->
