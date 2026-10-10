@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0645-set-mismatch) |
 | [0661-image-smoother](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0674-longest-continuous-increasing-subsequence) |
+| [0682-baseball-game](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0682-baseball-game) |
 ## Two Pointers
 |  |
 | ------- |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0496-next-greater-element-i) |
+| [0682-baseball-game](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0682-baseball-game) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0495-teemo-attacking) |
+| [0682-baseball-game](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0682-baseball-game) |
 ## Sliding Window
 |  |
 | ------- |
