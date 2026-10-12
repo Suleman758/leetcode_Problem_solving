@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0682-baseball-game](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0706-design-hashmap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0706-design-hashmap) |
 ## Math
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0303-range-sum-query-immutable) |
 | [0705-design-hashset](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0706-design-hashmap) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -177,8 +180,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0706-design-hashmap) |
 ## Hash Function
 |  |
 | ------- |
 | [0705-design-hashset](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0705-design-hashset) |
+| [0706-design-hashmap](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
