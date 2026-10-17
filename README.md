@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0733-flood-fill) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Two Pointers
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0561-array-partition](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0561-array-partition) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0645-set-mismatch) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0747-largest-number-at-least-twice-of-others) |
 ## Counting Sort
 |  |
 | ------- |
