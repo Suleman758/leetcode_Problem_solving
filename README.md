@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0733-flood-fill) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0766-toeplitz-matrix) |
 ## Two Pointers
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0661-image-smoother](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0733-flood-fill) |
+| [0766-toeplitz-matrix](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0766-toeplitz-matrix) |
 ## Linked List
 |  |
 | ------- |
