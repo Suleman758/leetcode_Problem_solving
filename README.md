@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0733-flood-fill](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0733-flood-fill) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0766-toeplitz-matrix](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0766-toeplitz-matrix) |
+| [0804-unique-morse-code-words](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0804-unique-morse-code-words) |
 ## Two Pointers
 |  |
 | ------- |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0645-set-mismatch) |
 | [0705-design-hashset](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0706-design-hashmap) |
+| [0804-unique-morse-code-words](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0804-unique-morse-code-words) |
 ## Math
 |  |
 | ------- |
@@ -125,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0014-longest-common-prefix) |
 | [0500-keyboard-row](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0500-keyboard-row) |
+| [0804-unique-morse-code-words](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0804-unique-morse-code-words) |
 ## Trie
 |  |
 | ------- |
