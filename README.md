@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0766-toeplitz-matrix) |
 | [0804-unique-morse-code-words](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0806-number-of-lines-to-write-string) |
+| [0812-largest-triangle-area](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0812-largest-triangle-area) |
 ## Two Pointers
 |  |
 | ------- |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
+| [0812-largest-triangle-area](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0812-largest-triangle-area) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -211,4 +213,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0733-flood-fill](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0733-flood-fill) |
+## Geometry
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0812-largest-triangle-area) |
+## Polygons
+|  |
+| ------- |
+| [0812-largest-triangle-area](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0812-largest-triangle-area) |
 <!---LeetCode Topics End-->
