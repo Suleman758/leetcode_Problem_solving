@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0804-unique-morse-code-words](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0806-number-of-lines-to-write-string) |
 | [0812-largest-triangle-area](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0812-largest-triangle-area) |
+| [0819-most-common-word](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0819-most-common-word) |
 ## Two Pointers
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0169-majority-element) |
 | [0561-array-partition](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0561-array-partition) |
+| [0819-most-common-word](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0819-most-common-word) |
 ## Hash Table
 |  |
 | ------- |
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0705-design-hashset](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0705-design-hashset) |
 | [0706-design-hashmap](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0706-design-hashmap) |
 | [0804-unique-morse-code-words](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0804-unique-morse-code-words) |
+| [0819-most-common-word](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0819-most-common-word) |
 ## Math
 |  |
 | ------- |
@@ -132,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0500-keyboard-row](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0500-keyboard-row) |
 | [0804-unique-morse-code-words](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0804-unique-morse-code-words) |
 | [0806-number-of-lines-to-write-string](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0806-number-of-lines-to-write-string) |
+| [0819-most-common-word](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0819-most-common-word) |
 ## Trie
 |  |
 | ------- |
