@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0812-largest-triangle-area) |
 | [0819-most-common-word](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0832-flipping-an-image) |
 ## Two Pointers
 |  |
 | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0821-shortest-distance-to-a-character) |
+| [0832-flipping-an-image](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0832-flipping-an-image) |
 ## Greedy
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0645-set-mismatch) |
+| [0832-flipping-an-image](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0832-flipping-an-image) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0495-teemo-attacking](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0495-teemo-attacking) |
 | [0682-baseball-game](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0832-flipping-an-image) |
 ## Sliding Window
 |  |
 | ------- |
@@ -202,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0661-image-smoother) |
 | [0733-flood-fill](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0733-flood-fill) |
 | [0766-toeplitz-matrix](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0832-flipping-an-image) |
 ## Linked List
 |  |
 | ------- |
