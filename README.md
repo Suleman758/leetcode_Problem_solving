@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0860-lemonade-change) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0455-assign-cookies](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0561-array-partition) |
+| [0860-lemonade-change](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0860-lemonade-change) |
 ## Sorting
 |  |
 | ------- |
