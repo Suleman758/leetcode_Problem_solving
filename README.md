@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0832-flipping-an-image](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0832-flipping-an-image) |
 | [0860-lemonade-change](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0883-projection-area-of-3d-shapes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0812-largest-triangle-area](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0812-largest-triangle-area) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0883-projection-area-of-3d-shapes) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0766-toeplitz-matrix) |
 | [0832-flipping-an-image](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0867-transpose-matrix) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0883-projection-area-of-3d-shapes) |
 ## Linked List
 |  |
 | ------- |
@@ -234,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-largest-triangle-area](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0812-largest-triangle-area) |
+| [0883-projection-area-of-3d-shapes](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0883-projection-area-of-3d-shapes) |
 ## Polygons
 |  |
 | ------- |
