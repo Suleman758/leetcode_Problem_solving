@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0867-transpose-matrix) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0883-projection-area-of-3d-shapes) |
+| [0888-fair-candy-swap](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0888-fair-candy-swap) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0628-maximum-product-of-three-numbers) |
 | [0645-set-mismatch](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0888-fair-candy-swap](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0888-fair-candy-swap) |
 ## Counting Sort
 |  |
 | ------- |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0706-design-hashmap) |
 | [0804-unique-morse-code-words](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0819-most-common-word) |
+| [0888-fair-candy-swap](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0888-fair-candy-swap) |
 ## Math
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0888-fair-candy-swap](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0888-fair-candy-swap) |
 ## Binary Tree
 |  |
 | ------- |
