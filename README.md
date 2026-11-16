@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0883-projection-area-of-3d-shapes](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0883-projection-area-of-3d-shapes) |
 | [0888-fair-candy-swap](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0892-surface-area-of-3d-shapes) |
+| [0905-sort-array-by-parity](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0905-sort-array-by-parity) |
 ## Two Pointers
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0455-assign-cookies](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0455-assign-cookies) |
 | [0821-shortest-distance-to-a-character](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0821-shortest-distance-to-a-character) |
 | [0832-flipping-an-image](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0832-flipping-an-image) |
+| [0905-sort-array-by-parity](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0905-sort-array-by-parity) |
 ## Greedy
 |  |
 | ------- |
@@ -88,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0645-set-mismatch) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0888-fair-candy-swap](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0888-fair-candy-swap) |
+| [0905-sort-array-by-parity](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0905-sort-array-by-parity) |
 ## Counting Sort
 |  |
 | ------- |
