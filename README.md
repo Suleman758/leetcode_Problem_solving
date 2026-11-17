@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0888-fair-candy-swap](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0888-fair-candy-swap) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0892-surface-area-of-3d-shapes) |
 | [0905-sort-array-by-parity](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0905-sort-array-by-parity) |
+| [0908-smallest-range-i](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0908-smallest-range-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -125,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0812-largest-triangle-area](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0812-largest-triangle-area) |
 | [0883-projection-area-of-3d-shapes](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0883-projection-area-of-3d-shapes) |
 | [0892-surface-area-of-3d-shapes](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0892-surface-area-of-3d-shapes) |
+| [0908-smallest-range-i](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0908-smallest-range-i) |
 ## Divide and Conquer
 |  |
 | ------- |
