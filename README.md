@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0908-smallest-range-i](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0908-smallest-range-i) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0922-sort-array-by-parity-ii) |
+| [0929-unique-email-addresses](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0929-unique-email-addresses) |
 ## Two Pointers
 |  |
 | ------- |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0819-most-common-word](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0819-most-common-word) |
 | [0888-fair-candy-swap](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0888-fair-candy-swap) |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+| [0929-unique-email-addresses](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0929-unique-email-addresses) |
 ## Math
 |  |
 | ------- |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0819-most-common-word) |
 | [0821-shortest-distance-to-a-character](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0821-shortest-distance-to-a-character) |
+| [0929-unique-email-addresses](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0929-unique-email-addresses) |
 ## Trie
 |  |
 | ------- |
