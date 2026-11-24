@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
 | [0922-sort-array-by-parity-ii](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0922-sort-array-by-parity-ii) |
 | [0929-unique-email-addresses](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0929-unique-email-addresses) |
+| [0941-valid-mountain-array](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0941-valid-mountain-array) |
 ## Two Pointers
 |  |
 | ------- |
