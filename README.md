@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0929-unique-email-addresses](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0929-unique-email-addresses) |
 | [0941-valid-mountain-array](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0941-valid-mountain-array) |
 | [0942-di-string-match](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0944-delete-columns-to-make-sorted) |
 ## Two Pointers
 |  |
 | ------- |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0821-shortest-distance-to-a-character](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0821-shortest-distance-to-a-character) |
 | [0929-unique-email-addresses](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0929-unique-email-addresses) |
 | [0942-di-string-match](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0942-di-string-match) |
+| [0944-delete-columns-to-make-sorted](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0944-delete-columns-to-make-sorted) |
 ## Trie
 |  |
 | ------- |
@@ -282,4 +284,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0914-x-of-a-kind-in-a-deck-of-cards](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0914-x-of-a-kind-in-a-deck-of-cards) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0944-delete-columns-to-make-sorted](https://github.com/Suleman758/leetcode_Problem_solving/tree/master/0944-delete-columns-to-make-sorted) |
 <!---LeetCode Topics End-->
